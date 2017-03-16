@@ -1,0 +1,64 @@
+.body {
+	margin: 25px;
+	padding: 20px;
+	font-family: Arial;
+}
+
+.logo {
+	width: 200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.globo {
+	background-image: url(../img/globo.png);
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+
+h1 {
+	font-family: Verdana;
+	color: #4B0082;
+}
+
+h2 {
+	font-family: Arial;
+	color: #4B0082;
+}
+
+a:hover {
+	background-color: #e0e0ea;
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+    color: silver;
+    text-decoration: underline;
+}
+
+a:active {
+	background-color: yellow;
+}
+
+strong {
+	font-size: 18px;
+    color: #8A2BE2;
+    background-color: #DDA0DD;
+}
+
+.passo {
+	font-size: 18px;
+	color: #8A2BE2;
+}
